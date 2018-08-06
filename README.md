@@ -3,7 +3,7 @@ SceneKit及AR/VR的相关书籍
 
 iOS开发者的推荐学习顺序: 
 
-1. 先看`3D_Apple_Games`这本书及[配套代码](https://github.com/XanderXu/3D-iOS-Games-by-Tutorials-code).   
+1. 先看[3D_Apple_Games](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials?_ga=2.106417411.1468940710.1511336864-1976951389.1509445815)这本书及[配套代码](https://github.com/XanderXu/3D-iOS-Games-by-Tutorials-code).   
 相关中文翻译和解释:[Hello SceneKit](https://juejin.im/post/5a322530f265da43062ac948)和[SceneKit文集](https://juejin.im/collection/5a3236ecf265da068948554a).    
 另外`BeginningSwiftGamesDevelopment for iOS.pdf`这本书中SceneKit部分可以配合阅读
 
